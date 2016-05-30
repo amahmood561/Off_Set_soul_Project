@@ -1,0 +1,574 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head><title>
+	Vossen Wheels | Luxury Rims | Staggered Wheels
+</title><meta name="keywords" content="Luxury Rims, Staggered Wheels, 19 inch staggered wheels, deep dish wheels, 3-piece wheels, Vossen Wheels,CV2 Rims, VVS075, VVS077, VVS078, VVS082, VVS083, VVS094, Miami wheel distributor" /><meta name="description" content="Vossen Wheels is a distributor of high-end, luxury chrome wheels for cars like Mercedes, BMW, Lexus, Bentley, Land Rover, and Porsche Rims." /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta content="general" name="rating" /><meta content="index, follow" name="ROBOTS" /><meta content="INDEX, FOLLOW" name="GOOGLEBOT" /><meta content="NOYDIR" name="Slurp" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta property="fb:page_id" content="134339916581623" /><meta name="google-site-verification" content="7UxXcrpMMaMgLR9CLuRwhBh9a15H8WY0q7blLtInb1M" /><link rel="shortcut icon" href="/favicon.ico" /><link rel="canonical" href="http://www.vossenwheels.com/" />
+
+<!--<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>-->
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>    window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+
+<script src="js/plugins.js"></script>
+<script src="js/scripts.js"></script>
+
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+<script src="js/vendor/html5shiv-3.6.2.min.js"></script>
+
+<link rel="stylesheet" href="/css/main.css" /><link rel="stylesheet" href="/css/homepage.css" /><link rel="stylesheet" href="/css/shadowbox.css" /><link rel="stylesheet" href="/css/default.css" type="text/css" media="screen" /><link href="css/flexslider/flexslider.css" rel="stylesheet" type="text/css" />
+
+    <script src="/js/nav.js" type="text/javascript"></script>
+    <script src="/js/home.js" type="text/javascript"></script>
+    <script src="js/flexslider/jquery.flexslider-min.js" type="text/javascript"></script>
+
+ 
+
+</head>
+<body>
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDMyNTc3ODVkZBONkqNF9PtJ+UsUTwBYqY63skopwhnk7Ldfgb8Vv2HD" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div>
+    
+    
+<!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+
+<!--navigationfixed --> 
+   <link href="/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+<script src="/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+<script>
+	$(document).ready(function() {
+		$('#link-tuv').magnificPopup({
+			type: 'inline',
+			preloader: false
+		});
+	    $('#gallery-menu').click(function(){
+	        $('#gallery-panel').slideToggle();
+			$('#gallery-menu').toggleClass("down");
+	    });
+	});
+</script>
+	
+	<!-- Originally from the Gallery template, but had to move it to fix JS errors that were killing some functionality. -->
+ 	<script type="text/javascript" src="/js/jquery.min.js"></script>
+ 	<script type='text/javascript' src='/js/jquery.mobile.customized.min.js'></script>
+ 	<script type='text/javascript' src='/js/jquery.easing.1.3.js'></script> 
+ 	<script type='text/javascript' src='/js/camera.js'></script> 
+ 	<!--<script type='text/javascript' src='/js/camera.min.js'></script> -->
+     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+     <script src="/js/vendor/html5shiv-3.6.2.min.js"></script>
+
+    <script>
+        jQuery(function () {
+            jQuery('#camera_wrap_3').camera({
+                height: '64.5%',
+                pagination: false,
+                thumbnails: true,
+                imagePath: '../images/',
+                fx: 'scrollHorz'
+            });
+
+        });
+ 	</script>
+	<!-- Original Gallery template code -->
+		
+<link href="/css/new-footer.css" rel="stylesheet" type="text/css" />
+
+<div class="nav-bar" id="nav-1"> <a href="#" class="responsive-control " onclick="javascript:return getmenu(1)"><img src="/images/menu.png" /></a>
+	<nav class="main-nav">
+		<div class="logo"><a href="/"><img src="/images/logo.jpg" alt=""/></a></div>
+		<ul class="nav-items">
+			<li><a href="http://www.vossenwheels.com/wheels">Wheels</a></li>
+			<li><a href="#" id="gallery-menu">Gallery</a>
+				<div id="gallery-panel">
+					<ul>
+						<li><a href="http://www.vossenwheels.com/gallery/">Vehicle Gallery</a></li>
+						<li><a href="http://www.vossenwheels.com/gallery/wheelgallery.aspx?p=1">Wheel Gallery</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a href="http://forged.vossenwheels.com">Manufacturing</a></li>
+			<li><a href="http://forged.vossenwheels.com/finishing">Finishing</a></li>
+			<li><a href="http://www.vossenwheels.com/about">About</a></li>
+			<li><a href="http://blog.vossenwheels.com">Blog</a></li>
+			<li><a href="http://www.vossenwheels.com/contact">Contact</a></li>
+			<!--li><a href="http://www.vossenwheels.com/warranty">Warranty</a></li-->
+
+			<!--li><a href="/about">About</a></li>
+			<li><a href="/wheels">Wheels</a></li>
+			<li><a href="http://forged.vossenwheels.com">Manufacturing</a></li>
+			<li><a href="http://forged.vossenwheels.com/finishing">Finishing</a></li>
+			<li><a href="/gallery">Gallery</a></li>
+			<li><a href="/warranty">Warranty</a></li>
+			<li><a href="http://blog.vossenwheels.com">Blog</a></li>
+			<li><a href="/contact">Contact</a></li-->
+		</ul>
+	</nav>
+</div>
+	
+
+<div class="auxillery-nav">
+	<ul class="social">
+		<li><a target="_blank" href="http://www.youtube.com/vossenwheels" class="youtube">Youtube</a></li>
+		<li><a target="_blank" href="http://twitter.com/vossenwheels" class="twitter">Twitter</a></li>
+		<li><a target="_blank" href="http://instagram.com/vossen" class="instagram">Instagram</a></li>
+		<li><a target="_blank" href="http://www.facebook.com/vossenwheels" class="facebook">Facebook</a></li>
+	</ul>
+	<a id="link-cart" href="" class="cart cart-text cart-link" onclick="javascript:return getcart(1)"><span class="item-count-empty">0</span></a>
+	<a id="link-shop" href="/store">SHOP NOW</a>
+	<a id="link-tuv" href="#tuv-panel">TUV</a>
+	<div id="tuv-panel" class="mfp-hide">
+		<img src="/images/tuv-color.jpg">
+		<h1>What is TUV Verification?</h1>
+		<p><a href="http://www.tuev.at" target="_blank">TUV&reg;</a> Verified Quality Management System is the rarest and strictest quality and engineering status in the wheel industry. Vossen is one of only very few wheel manufacturers worldwide to receive this quality verification.</p>
+		<!--a target="_blank" title="" href="#" class="button cta">Learn more</a-->
+	</div>
+<div id="cart-pannel-containr"> 
+	<div id="cart-pannel"> 
+		<div class="cart-pannel-top"> 
+			<ul> 
+
+				<div class="sparter"></div> 
+				<div class="sub-total">
+					<p> Order Sub Total:</p>
+					<span style="float:right;">
+						<p>$0.00</p>
+					</span>
+				</div> 
+			</ul> 
+		</div> 
+<div class="cart-pannel-bottom"> 
+<div class="cart-pannel-bottom-left"><a href="/store">Continue Shopping</a></div> 
+<div class="cart-pannel-bottom-right"><a href="/secure/cart.aspx" class="button-checkout" #>Checkout<img src="/images/icon-chakeout.png" style="margin-left:5px;"/></a></div> 
+</div> 
+</div> 
+</div> 
+
+</div>
+<!--for video /////////////// -->
+<section class="hero content-section dark">
+  <div class="frame">
+    <div class="video-wrapper">
+      <iframe
+            id="video-player"
+            width="100%"
+            height="100%"
+            src="http://www.youtube.com/embed//MXaYyzOcscU?enablejsapi=1&wmode=transparent&rel=0&start=1"
+            frameborder="0"> </iframe>
+    </div>
+    <div class="container">
+      <div class="title">
+        <div class="title">
+          <h1 class="main-title">Novitec x Vossen</h1>
+          <span class="sub-title">The NV1 Forged Wheel</span></div>
+      </div>
+      <a class="button cta highlight" href="http://wheels.vossenwheels.com/wheel/nv1/">More Info</a> 
+     </div>
+
+
+  </div>
+</section>
+
+  
+  <section class="news content-section">
+  <div class="container">
+    <h2 class="section-header simple"> The Latest From Vossen </h2>
+    <ul class="news-list">
+
+  
+       
+       <!-- Blog Entry starts Thu, 26 May 2016 16:26:13  -->
+      
+      <li>
+        <div class="content"> <a data-title="Read More" href="http://blog.vossenwheels.com/novitec-x-vossen-aventador-sv-behind-the-scenes-with-philipp-rupprecht/"><span><img width="272" src="http://blog.vossenwheels.com/wp-content/uploads/2016/05/NxV-BTS-272x183.jpg"</span></a>
+          <div class="details">
+            <h3 class="item-title">Novitec x Vossen Aventador SV – Behind the Scenes with Philipp Rupprecht</h3>
+            <p>
+The Novitec Lamborghini Aventador SV and its NV1 forged wheel is easily one of the most exciting projects we&#8217;ve had the pleasure of working on  ...</p>
+          </div>
+        </div>
+      </li>
+      
+
+       <!-- Blog Entry ends -->
+                        
+    
+       
+       <!-- Blog Entry starts Fri, 13 May 2016 15:56:41  -->
+      
+      <li>
+        <div class="content"> <a data-title="Read More" href="http://blog.vossenwheels.com/diegos-nissan-gtr-black-edition-on-vossen-vfs-6/"><span><img width="272" src="http://blog.vossenwheels.com/wp-content/uploads/2016/05/26593946391_8c46cb9a41_o-272x183.jpg"</span></a>
+          <div class="details">
+            <h3 class="item-title">Diego’s Nissan GTR Black Edition on Vossen VFS-6</h3>
+            <p>
+Diego once again switches things up, this time with the all new flow formed technology Vossen VFS-6 on his Nissan GTR! Obviously the team at Vossen a ...</p>
+          </div>
+        </div>
+      </li>
+      
+
+       <!-- Blog Entry ends -->
+                        
+    
+       
+       <!-- Blog Entry starts Wed, 11 May 2016 20:43:40  -->
+      
+      <li>
+        <div class="content"> <a data-title="Read More" href="http://blog.vossenwheels.com/jm-lexus-murders-out-the-all-new-lexus-lx/"><span><img width="272" src="http://blog.vossenwheels.com/wp-content/uploads/2016/05/26862842352_ec680b9319_o-272x183.jpg"</span></a>
+          <div class="details">
+            <h3 class="item-title">JM Lexus Murders Out the all new Lexus LX</h3>
+            <p>
+Wheeltec, JM Lexus &#38; JM Custom Creations adds a very dark touch to the already sinister all new Lexus LX 570&#8230; No matter if you like it or n ...</p>
+          </div>
+        </div>
+      </li>
+      
+
+       <!-- Blog Entry ends -->
+                        
+    
+       
+       <!-- Blog Entry starts Wed, 04 May 2016 16:07:00  -->
+      
+      <li>
+        <div class="content"> <a data-title="Read More" href="http://blog.vossenwheels.com/austin-mahones-iron-man-bmw-i8-on-vossen-forged/"><span><img width="272" src="http://blog.vossenwheels.com/wp-content/uploads/2016/05/26700922382_2d6263350c_o-272x183.jpg"</span></a>
+          <div class="details">
+            <h3 class="item-title">Austin Mahone’s “Iron Man” BMW i8 on Vossen Forged</h3>
+            <p>
+Back with another hit single, Austin brings some serious heat with his modified BMW i8 featuring our Vossen Forged VPS-305t Wheels AustinÂ updates hi ...</p>
+          </div>
+        </div>
+      </li>
+      
+
+       <!-- Blog Entry ends -->
+                        
+    
+  
+      </ul>
+  </div>
+</section>
+
+
+  
+
+
+
+
+
+<section class="videos content-section">
+  <h2 class="section-header">Videos</h2>
+  <a href="http://www.youtube.com/embed/Zl68sOqFXxA?rel=0&autoplay=1" class="featured-video modal" title="Featured Video" rel="shadowbox"><img src="/images/homepage/VideoBG-7fa9.jpg" alt="" /></a>
+  <div class="container">
+    
+    <div class="copy">
+      <h3 class="copy-heading"> VOSSEN SHORT FILMS</h3>
+      <p> At Vossen we take pride in our craft. Explore our collection of moving pictures and witness our unique approach and vision.</p>
+      <a target="" title="" href="/gallery?show=video" class="button cta">Video Gallery</a> </div>
+
+    <div class="video-grid grid">
+
+        <ul>
+                 <li><a data-title="Lexus GS
+					 VFS6"  href="/gallery/gallerydetails.aspx?id=2581"><span><img src="/gallery/FileUpload/Gallery/l_Lexus_GS_VFS6_f5af1908.jpg?width=294" alt="Lexus GS | VFS6"></span></a></li>
+            
+                 <li><a data-title="Ford Mustang
+					 VFS6"  href="/gallery/gallerydetails.aspx?id=2580"><span><img src="/gallery/FileUpload/Gallery/l_Ford_Mustang_VFS6_0746728e.jpg?width=294" alt="Ford Mustang | VFS6"></span></a></li>
+            
+                 <li><a data-title="BMW 3 Series | M3
+					 VFS6"  href="/gallery/gallerydetails.aspx?id=2571"><span><img src="/gallery/FileUpload/Gallery/l_BMW_3 Series - M3_VFS6_11fb0e6f.jpg?width=294" alt="BMW 3 Series | M3 | VFS6"></span></a></li>
+            
+                 <li><a data-title="Lexus RC
+					 VFS6"  href="/gallery/gallerydetails.aspx?id=2570"><span><img src="/gallery/FileUpload/Gallery/l_Lexus_RC_VFS6_6bcede72.jpg?width=294" alt="Lexus RC | VFS6"></span></a></li>
+            
+                 <li><a data-title="Audi A4 | S4 | RS4
+					 VFS6"  href="/gallery/gallerydetails.aspx?id=2567"><span><img src="/gallery/FileUpload/Gallery/l_Audi_A4 - S4 - RS4_VFS6_6d5b046a.jpg?width=294" alt="Audi A4 | S4 | RS4 | VFS6"></span></a></li>
+            
+                 <li><a data-title="BMW 4 Series
+					 VFS6"  href="/gallery/gallerydetails.aspx?id=2566"><span><img src="/gallery/FileUpload/Gallery/l_BMW_4 Series_VFS6_cb209ecd.jpg?width=294" alt="BMW 4 Series | VFS6"></span></a></li>
+            </ul>
+     
+    </div>
+  </div>
+</section>
+<section class="photos content-section dark">
+  <div class="featured-gallery"> <img src="/images/homepage/PhotoBG-9312.jpg" alt="" class="bg" />
+      <div class="copy">
+      <h2 class="section-header">PHOTOS</h2>
+      <p>Photography is more than a medium for showcasing our wheels, it's something Vossen is truly passionate about. We rely on highly skilled photographers around the world to showcase our wheels.</p>
+      <a target="" title="" href="/gallery?show=photo" class="button cta white">Photo Gallery</a> 
+      </div>
+
+
+  </div>
+  <div class="photo-grid grid">
+
+<ul>
+        <li><a data-title="Lamborghini Aventador SV &#10;
+			NV1" href="/gallery/gallerydetails.aspx?id=2667"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Lamborghini_Aventador SV_NV1_12f14eb2.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="Mini Countryman &#10;
+			VFS2" href="/gallery/gallerydetails.aspx?id=2665"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Mini_Countryman_VFS2_c6e013f9.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="Acura TLX &#10;
+			VFS6" href="/gallery/gallerydetails.aspx?id=2656"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Acura_TLX_VFS6_489dea63.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="Ford Mustang &#10;
+			VPS-306" href="/gallery/gallerydetails.aspx?id=2655"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Ford_Mustang_VPS-306_4b858cb2.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="VW Scirocco &#10;
+			CVT" href="/gallery/gallerydetails.aspx?id=2654"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/VW_Scirocco_CVT_0d203876.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="Porsche Turbo S &#10;
+			VPS-305T" href="/gallery/gallerydetails.aspx?id=2653"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Porsche_Turbo S_VPS-305T_86ebc0fe.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="Audi S3 &#10;
+			CVT" href="/gallery/gallerydetails.aspx?id=2652"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Audi_S3_CVT_52d05912.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="Mercedes Benz GTS &#10;
+			VPS-306" href="/gallery/gallerydetails.aspx?id=2651"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Mercedes Benz_GTS_VPS-306_e371a809.jpg?width=588&height=391" alt=""></span></a></li>
+    
+        <li><a data-title="Mercedes Benz GTS &#10;
+			VPS-307" href="/gallery/gallerydetails.aspx?id=2413"><span><img src="http://www.vossenwheels.com/gallery/FileUpload/Gallery/Mercedes Benz_GTS_VPS-307_ac624a81.jpg?width=588&height=391" alt=""></span></a></li>
+    </ul>
+
+
+   
+  </div>
+</section>
+
+ 
+<section class="content-section">
+  <div class="container">
+    <h2 class="section-header simple">The Wheel Collections</h2>
+    <ul class="tt-wrapper">  
+
+      <li>
+        <div class="content">
+			<a data-title="Forged Series" href="/wheels/#Forged">
+				<img src="/resources/images/WheelsPage/vps-305t.jpg" class="wheel" />
+				<img src="/images/logo-forged-precision.png" class="logo" />
+			</a>
+          <div class="details">
+            <p style="font-size:14px;">Aesthetic simplicity being the guiding design principal, the Forged Precision Series line features slender and elongated spokes. The characteristic 30-degree cuts reduce material, further slimming the spokes while adding unique detail.</p>
+          </div>
+        </div>
+      </li>
+	  
+      <li>
+        <div class="content">
+			<a data-title="LC Series" href="/wheels/#LC">
+				<img src="/resources/images/WheelsPage/LC-104.jpg" class="wheel" />
+				<img src="/images/logo-forged-lc.png" class="logo" />
+			</a>
+          <div class="details">
+            <p style="font-size:14px;">The Lip Concept Series is aimed at emulating the lip transition of a multi-piece wheel while maintaining a single-piece monoblock forged construction.</p>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="content">
+			<a data-title="VF Series" href="/wheels/#VF-Series">
+				<img src="/resources/images/WheelsPage/vfs6.jpg" class="wheel" />
+				<img src="/resources/images/wheelspage/vf-series-logo.jpg" class="logo" />
+			</a>
+          <div class="details">
+            <p style="font-size:14px;">Advancing the traditional casting process, the VF Series utilizes flow forming to cut down on weight and increase strength. Flow forming also allows for a great range of wheel widths within each design.</p>
+          </div>
+        </div>
+      </li>
+	  
+      <li>
+       <div class="content">
+		   <a data-title="CV Series" href="/wheels/#CV-Series">
+			   <img src="/resources/images/cv3.jpg" class="wheel" />
+			   <img src="/resources/images/wheelspage/cv-series-logo.jpg" class="logo" />
+		   </a>
+          <div class="details">
+            <p style="font-size:14px;">Pioneer of the concave, staggered trend, the CV Series employs a low-pressure casting process and delivers classic monoblock designs.</p>
+          </div>
+        </div>
+      </li>
+	  
+      </ul>
+  </div>
+</section>
+
+<section class="store content-section dark parallax" style=" background: url(/images/homepage/StoreBG-fbde.jpg) no-repeat #292929 center top; background-size: cover;">
+  <div class="container">
+    <div class="copy">
+      <h2 class="section-header">Store</h2>
+      <p>The Vossen lifestyle extends much deeper than fitting wheels to a car. Explore Vossen’s array of authentic apparel and accessories.</p> 
+<a href="/store" class="button cta">Shop Vossen</a> </div>
+
+  </div>
+</section>
+
+    <script>
+
+    // Can also be used with $(document).ready()
+    $(window).load(function () {
+        $('.flexslider').flexslider({
+            animation: "slide"
+        });
+    });
+
+   </script>
+
+
+   <!-- Prefooter -->
+<div id="prefooter">
+	<div class="row collapse">
+		<div class="small-12 medium-12 large-10 large-centered columns">
+			<div id="warranty" class="small-12 medium-5 large-4 large-offset-1 columns">
+				<div id="text-2" class="widget widget_text">
+					<div class="textwidget">
+						<img src="http://forged.vossenwheels.com/wp-content/uploads/2015/10/warranty_seal.png">
+						<h2>Our Warranty<br>The Vossen Word.</h2>
+					</div>
+				</div>
+			</div>
+			<div id="questions" class="small-12 medium-5 large-4 large-offset-1 columns">
+				<div id="text-3" class="widget widget_text">
+					<div class="textwidget">
+						<img src="http://forged.vossenwheels.com/wp-content/uploads/2015/10/chat_bubbles.png">
+						<h2>Have Questions?<br>1.888.463.7778</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Footer -->
+<footer class="footer" role="contentinfo">
+	<div id="inner-footer" class="row">
+		<h2>Passion. Performance. Precision.</h2>
+		<div class="small-12 medium-11 medium-offset-1 large-10 large-offset-2 columns">
+			<div class="small-6 medium-2 large-2 columns">
+				<h3><a href="http://www.vossenwheels.com/about/">About Us</a></h3>
+				<ul>
+					<li><a href="http://www.vossenwheels.com/about/">Our Story</a></li>
+					<li><a href="http://blog.vossenwheels.com">Blog</a></li>
+					<li><a href="http://www.vossenwheels.com/gallery/">Gallery</a></li>
+					<li><a href="http://www.vossenwheels.com/Contact/">Contact Us</a></li>
+				</ul>
+			</div>
+			<div class="small-6 medium-2 large-2 columns">
+				<h3><a href="http://www.vossenwheels.com/wheels/">Wheels</a></h3>
+				<ul>
+					<li><a href="http://forged.vossenwheels.com">Forged</a></li>
+					<li><a href="http://www.vossenwheels.com/wheels/#CV-Series">CV Series</a></li>
+					<li><a href="http://www.vossenwheels.com/wheels/#VF-Series">VF Series</a></li>
+					<li><a href="http://www.vossenwheels.com/wheels/#VLE-1">VLE-1</a></li>
+				</ul>
+			</div>
+			<div class="small-6 medium-2 large-2 columns">
+				<h3><a href="http://forged.vossenwheels.com">Engineered Art</a></h3>
+				<ul>
+					<li><a href="http://forged.vossenwheels.com/#design">Design</a></li>
+					<li><a href="http://forged.vossenwheels.com/#engineering">Engineering</a></li>
+					<li><a href="http://forged.vossenwheels.com/#manufacturing">Manufacturing</a></li>
+					<li><a href="http://forged.vossenwheels.com/finishing">Finishing</a></li>
+				</ul>
+			</div>
+			<div class="small-6 medium-2 large-2 columns">
+				<h3><a href="www.vossenwheels.com/store/">Apparel Shop</a></h3>
+				<ul>
+					<li><a href="http://www.vossenwheels.com/store/#Men’s Apparel">Mens</a></li>
+					<li><a href="http://www.vossenwheels.com/store/#Women’s Apparel">Womens</a></li>
+					<li><a href="http://www.vossenwheels.com/store/#Accessories">Accessories</a></li>
+					<li><a href="http://www.vossenwheels.com/store/#Kids">Kids</a></li>
+					<li><a href="http://www.vossenwheels.com/store/#Stickers">Stickers</a></li>
+				</ul>
+			</div>
+			<div class="small-6 medium-2 large-2 columns">
+				<h3><a href="#">Social</a></h3>
+				<ul>
+					<li><a href="http://www.youtube.com/vossenwheels" id="social-youtube">YouTube</a></li>
+					<li><a href="http://twitter.com/vossenwheels" id="social-twitter">Twitter</a></li>
+					<li><a href="http://www.facebook.com/vossenwheels" id="social-facebook">Facebook</a></li>
+					<li><a href="http://instagram.com/vossen" id="social-instagram">Instagram</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="footer-bottom" class="large-12 medium-12 columns">
+			<p class="right">Have questions? 1-305-463-7778</p>
+			<p class="source-org copyright left">&copy; 2006-2016 Vossen Wheels</p>
+		</div>
+	</div> <!-- end #inner-footer -->
+</footer>
+
+<!--footer class="main-footer">
+	<script type="text/javascript" language="javascript">
+	function SubmitEmail() {
+	     var strEmail = document.getElementById("txtEmailSignup").value;
+	     document.getElementById("txtEmailSignup").value = "Sending...";
+	     document.getElementById("txtEmailSignup").enabled = "false";
+	     var xmlhttp;
+	     if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+	         xmlhttp = new XMLHttpRequest();
+	     }
+	     else {// code for IE6, IE5
+	         xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+	     }
+	     xmlhttp.onreadystatechange = function () {
+	         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+	             document.getElementById("txtEmailSignup").value = xmlhttp.responseText;
+	         }
+	     }
+	     xmlhttp.open("GET", "/submitEmail.aspx?email=" + strEmail, true);
+	     xmlhttp.send();
+	     // document.getElementById("txtEmailSignup").value='Thanks!'; //xmlhttp.responseText;
+	     return false;
+	}
+	</script>
+    <footer class="social-footer">
+        <ul class="social">
+            <li class="title">Be social with us</li>
+            <li><a target="_blank" href="http://www.youtube.com/vossenwheels" class="youtube external">Youtube</a></li>
+            <li><a target="_blank" href="http://twitter.com/vossenwheels" class="twitter external">Twitter</a></li>
+            <li><a target="_blank" href="http://instagram.com/vossen" class="instagram external">Instagram</a></li>
+            <li><a target="_blank" href="http://www.facebook.com/vossenwheels" class="facebook external">Facebook</a></li>
+        </ul>
+    </footer>
+    <footer class="legal-footer">
+        <div class="container">
+            <div class="newsletter-signup">
+				<label for="txtEmailSignup">Sign Up for our Newsletter</label>
+				<input id="txtEmailSignup" type="text" value="" name="email"  />
+				<button type="submit" onclick="return SubmitEmail();" class="submit">Go</button>
+            </div>
+            <p>&copy; 2006-2016 Vossen Wheels</p>
+            <span class="footer-text-span">Have Questions? Talk with an expert. 1-305-463-7778 <i>|</i> <a href="mailto:info@vossenwheels.com">info@vossenwheels.com</a></span>
+        </div>
+    </footer>
+</footer-->
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2855166-1']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script></form>
+</body>
+</html>
